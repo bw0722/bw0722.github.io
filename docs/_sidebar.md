@@ -35,3 +35,7 @@
    - 第7章：高级搜索
    
        - [高级搜索的知识](/md/idea-plugin/搜索的相关知识.md)
+    
+   - 第8章：Python3
+    
+       - [Python3数据类型](/md/idea-plugin/Python3的相关知识.md)
